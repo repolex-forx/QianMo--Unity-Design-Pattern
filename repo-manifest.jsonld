@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/QianMo/Unity-Design-Pattern/commit/a4c0d5df85cf73a04d3a6fe87d3a90f4b6614a37",
       "git:hexsha": "a4c0d5df85cf73a04d3a6fe87d3a90f4b6614a37",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
